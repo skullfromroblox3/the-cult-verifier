@@ -1,1 +1,1 @@
-# melpo-bot
+# Melpo Verifier Discord bot
